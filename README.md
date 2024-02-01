@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @abhishek-mandavi
 - 🌱 I’m currently learning Adavnced Javascript and Reactjs
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me gmail:- abhishekmandavi8805@gmail.com
