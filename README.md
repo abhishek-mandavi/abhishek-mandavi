@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Adavnced Javascript and Reactjs
+- 🌱 I’m currently learning Reactjs and Nodejs
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me gmail:- abhishekmandavi8805@gmail.com
 
