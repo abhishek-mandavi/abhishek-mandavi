@@ -1,4 +1,4 @@
-# Hi Developers 👋!
+# Hello Developers !
 I’m a passionate Full Stack Developer with expertise in Java ,Frontend, Backend, DataBases, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in Data Structures and Algorithm.
 
 # 🛠️  Technologies & Tools
