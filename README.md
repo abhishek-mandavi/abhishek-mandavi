@@ -1,9 +1,37 @@
-- 🌱 I’m currently learning Reactjs and Nodejs
-- 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me gmail:- abhishekmandavi8805@gmail.com
+# Hi Developers 👋!
+I’m a passionate Full Stack Developer with expertise in Java ,Frontend, Backend, DataBases, design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in Data Structures and Algorithm.
 
-Hi Developers 👋!
-I’m a passionate Java Full Stack Developer with expertise in High-Level and Low-Level Design (HLD/LLD), design patterns, and strong problem-solving abilities. Along with my development skills, I have also been active in competitive programming, securing impressive positions in various competitions.
+# 🛠️  Technologies & Tools
+
+# 🌟 Programming Languages
+- Java
+- JavaScript
+- Python
+
+
+# 🎨 Frontend Skills
+- HTML
+- CSS
+- JAVASCRIPT
+- React.js
+- Material UI
+
+🚀 Backend Skills
+- Nodejs/Express.js
+- MongoDB
+- MySQL
+
+# 🔧 Others
+
+- RESTful APIs
+- Git/Github
+- Netlify
+- VScode
+- Intellij Idea
+- Postman
+- Figma
+- Sublime Text
+
 
 <!---
 abhishek-mandavi/abhishek-mandavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
