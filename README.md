@@ -17,8 +17,7 @@ I’m a passionate Full Stack Developer with expertise in Java ,Frontend, Backen
 - Material UI
 
   
-
-🚀 Backend Skills
+# 🚀 Backend Skills
 - Nodejs/Express.js
 - MongoDB
 - MySQL
