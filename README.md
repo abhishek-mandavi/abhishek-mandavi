@@ -14,6 +14,7 @@ I’m a passionate Full Stack Developer with expertise in Java ,Frontend, Backen
 - CSS
 - JAVASCRIPT
 - React.js
+- Nextjs
 - Material UI
 
   
